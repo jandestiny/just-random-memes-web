@@ -43,7 +43,9 @@ document.querySelector('.shareBtn').addEventListener('click', event => {
       }).then(() => {
         console.log('Thanks for sharing!');
       })
-      .catch(console.error);
+      .catch(err => {
+        console.log('Error: ', err);
+      });
     } else {
       // fallback
       console.log('Sharing is not supported by this browser.');

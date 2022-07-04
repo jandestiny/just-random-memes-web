@@ -1,4 +1,4 @@
-# Just random memes
+# Just Random Memes
 
 A simple frontend project that I created to learn about using REST-APIs and pre-caching data.
 

@@ -1,6 +1,6 @@
-# randommemegen
+# Just random memes
 
-A simple website providing you with random memes.    
+A simple frontend project that I created to learn about using REST-APIs and pre-caching data.
 
 Using https://github.com/R3l3ntl3ss/Meme_Api as data source.    
 
